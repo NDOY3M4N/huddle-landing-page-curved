@@ -279,27 +279,27 @@ a {
 @media (min-width: 750px) {
   .bg-curve-1::before {
     background-image: url('images/bg-section-top-desktop-1.svg');
-    height: 25vh;
+    height: 150px;
   }
 
   .bg-curve-3::before {
     background-image: url('images/bg-section-bottom-desktop-1.svg');
-    height: 20vh;
+    height: 150px;
   }
 
   .bg-curve-3::after {
     background-image: url('images/bg-section-top-desktop-2.svg');
-    height: 25vh;
+    height: 150px;
   }
 
   .bg-curve-5::before {
     background-image: url('images/bg-section-bottom-desktop-2.svg');
-    height: 20vh;
+    height: 120px;
   }
 
   .bg-curve-5::after {
     background-image: url('images/bg-footer-top-desktop.svg');
-    height: 25vh;
+    height: 150px;
   }
 
   .bg-curve-1 {
